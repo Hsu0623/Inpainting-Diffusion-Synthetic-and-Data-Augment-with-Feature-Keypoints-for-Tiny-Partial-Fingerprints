@@ -15,7 +15,7 @@ inpaint_with_feature_keypoints (which are synthetic by inpaintin diffusion with 
 http://gofile.me/7p5O4/OOsvMQGKV
 
 ### citation
-![Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in neural information processing systems 34 (2021): 8780-8794.](https://github.com/openai/guided-diffusion?tab=readme-ov-file)
-![Lugmayr, Andreas, et al. "Inpainting using denoising diffusion probabilistic models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.](https://github.com/andreas128/RePaint?tab=readme-ov-file)
+[Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in neural information processing systems 34 (2021): 8780-8794.](https://github.com/openai/guided-diffusion?tab=readme-ov-file)
+[Lugmayr, Andreas, et al. "Inpainting using denoising diffusion probabilistic models." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.](https://github.com/andreas128/RePaint?tab=readme-ov-file)
 
 
