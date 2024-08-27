@@ -1,6 +1,6 @@
 # Inpainting-Diffusion-Synthetic-and-Data-Augment-with-Feature-Keypoints-for-Tiny-Partial-Fingerprints
 ### Overall 
-![image](https://github.com/Hsu0623/Inpainting-Diffusion-Synthetic-and-Data-Augment-with-Feature-Keypoints-for-Tiny-Partial-Fingerprints/assets/67309197/c3b93cbe-935d-4f6b-bbda-4c411c34ffb9)
+![overview](https://github.com/user-attachments/assets/05c924c9-493a-45e1-b823-e12ddb72faef)
 
 ### realease datasets:
 ![image](https://github.com/Hsu0623/Inpainting-Diffusion-Synthetic-and-Data-Augment-with-Feature-Keypoints-for-Tiny-Partial-Fingerprints/assets/67309197/d9241515-6109-46fc-a199-c39ecd4f5f6f)
