@@ -18,7 +18,7 @@ inpaint_with_feature_keypoints (which are synthetic by inpaintin diffusion with 
 http://gofile.me/7p5O4/OvdUhKSN7
 
 ### How to generate augmented fingerprints with feature keypoints.
-1. download the pretrained weight
+1. download the pretrained weight (https://drive.google.com/file/d/1Is60nzBHYBAcDjdiYmtP_QYVF4mdbGpN/view?usp=sharing).
 2. Create feature keypoint mask
 3. modified the yml file for your path (gt_path, mask_path, srs, lsr, gts, gt_keep_masks)
 4. $ python test.py
