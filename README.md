@@ -17,6 +17,16 @@ http://gofile.me/7p5O4/BsvKGEFhH
 inpaint_with_feature_keypoints (which are synthetic by inpaintin diffusion with feature kepoints, with Label is inpaint_matched_v1, and without Label is virtual_ddim_unmatched.)：
 http://gofile.me/7p5O4/OvdUhKSN7
 
+### How to Inference
+1. download the pretrained weight
+2. Create feature keypoint mask
+3. modified the yml file for your path (gt_path, mask_path, srs, lsr, gts, gt_keep_masks)
+4. $ python test.py
+   
+
+### How to Train on your own datasets
+please refer https://github.com/openai/guided-diffusion?tab=readme-ov-file
+
 ### citation
 1.Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in neural information processing systems 34 (2021): 8780-8794.(https://github.com/openai/guided-diffusion?tab=readme-ov-file)
 
