@@ -25,7 +25,7 @@ http://gofile.me/7p5O4/OvdUhKSN7
    
 
 ### How to Train on your own datasets
-please refer https://github.com/openai/guided-diffusion?tab=readme-ov-file
+please refer [https://github.com/openai/guided-diffusion?tab=readme-ov-file](https://github.com/ermongroup/ddim)
 
 ### citation
 1.Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in neural information processing systems 34 (2021): 8780-8794.(https://github.com/openai/guided-diffusion?tab=readme-ov-file)
