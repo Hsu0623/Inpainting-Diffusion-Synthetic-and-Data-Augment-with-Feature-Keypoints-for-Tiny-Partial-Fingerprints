@@ -17,7 +17,7 @@ http://gofile.me/7p5O4/BsvKGEFhH
 inpaint_with_feature_keypoints (which are synthetic by inpaintin diffusion with feature kepoints, with Label is inpaint_matched_v1, and without Label is virtual_ddim_unmatched.)：
 http://gofile.me/7p5O4/OvdUhKSN7
 
-### How to Inference
+### How to generate augmented fingerprints with feature keypoints.
 1. download the pretrained weight
 2. Create feature keypoint mask
 3. modified the yml file for your path (gt_path, mask_path, srs, lsr, gts, gt_keep_masks)
